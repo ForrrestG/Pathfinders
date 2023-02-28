@@ -4,7 +4,11 @@
 A repository of the innovative and creative work done by the NM A.I. Academy Pathfinders, a team of students who will explore the capabilities of AI and ML, and lead the way for future students.
 
 The Pathfinders are: 
+<<<<<<< HEAD
 
 
 Forrest Garcia, Nex-Gen Academy
+=======
+George Gorospe, NASA Ames Research Center
+>>>>>>> 361725ec11f6610d548778d4457fa48c492bc841
 
